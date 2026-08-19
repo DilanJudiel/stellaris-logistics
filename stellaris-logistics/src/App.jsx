@@ -19,9 +19,14 @@ function App() {
             <a href="#cobertura">Cobertura</a>
           </nav>
 
-          <a href="#cotizar" className="btn-cotizar">
-            Cotizar
-          </a>
+<a
+  href="https://wa.me/525572142579?text=Hola%2C%20Stellaris%20Logistics.%20Me%20interesa%20conocer%20sus%20opciones%20de%20transporte%20y%20log%C3%ADstica%20y%20solicitar%20una%20cotizaci%C3%B3n.%20%C2%BFPodr%C3%ADan%20ayudarme%20con%20informaci%C3%B3n%20sobre%20disponibilidad%2C%20cobertura%20y%20servicio%3F"
+  className="btn-cotizar"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Cotizar
+</a>
 
         </div>
       </header>
