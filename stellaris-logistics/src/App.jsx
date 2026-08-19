@@ -432,7 +432,7 @@ function App() {
         </p>
 
         <p className="contact-value">
-          Michelle.hernandez@stellaris.com
+          michelle.hernandez@stellaris.com
         </p>
 
       </div>
