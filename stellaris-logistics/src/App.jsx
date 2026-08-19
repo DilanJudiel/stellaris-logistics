@@ -444,7 +444,7 @@ function App() {
         </p>
 
         <p className="contact-value contact-phone">
-          +52 55 3982 2057
+          +52 55 7214 2579
         </p>
 
       </div>
