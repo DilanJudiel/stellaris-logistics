@@ -455,9 +455,14 @@ function App() {
           SITIO WEB
         </p>
 
-        <p className="contact-value contact-web">
-          www.Stellarislog.com
-        </p>
+<a
+  href="https://stellarislog.com"
+  className="contact-value contact-web"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  stellarislog.com
+</a>
 
       </div>
 

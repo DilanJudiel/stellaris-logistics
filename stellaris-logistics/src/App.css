@@ -1066,6 +1066,15 @@ background-image: url("/images/hero-camiones.jpg");
   font-size: 15px;
 }
 
+.contact-web {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.contact-web:hover {
+  color: var(--orange);
+}
+
 /* ================================
    FOOTER
 ================================ */
