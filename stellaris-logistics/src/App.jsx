@@ -8,9 +8,12 @@ function App() {
       <header className="navbar">
         <div className="nav-container">
 
-          <a href="#inicio" className="logo">
-            STELLARIS <span>LOGISTICS</span>
-          </a>
+<a href="#inicio" className="logo">
+  <img
+    src="/images/logo-stellaris.png"
+    alt="Stellaris Logistics"
+  />
+</a>
 
           <nav className="nav-menu">
             <a href="#nosotros">Nosotros</a>
@@ -476,9 +479,12 @@ function App() {
 
   <div className="footer-container">
 
-    <div className="footer-brand">
-      STELLARIS LOGISTICS
-    </div>
+<a href="#inicio" className="footer-logo">
+  <img
+    src="/images/logo-stellaris.png"
+    alt="Stellaris Logistics"
+  />
+</a>
 
     <div className="footer-slogan">
       “Sinceramente, tu mejor camino.”
